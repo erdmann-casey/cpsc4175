@@ -1,5 +1,10 @@
 # Brisket SRS
 
+### Casey Erdmann and Cory Yelverton
+
+## Description:
+An image and text sharing application. Allows users to anonmylously upload images or text and share or embed the content across other services.
+
 ## Requirements:
 
 1. Needs to allow uploading of images: png, jpg, and gif no larger than 15mb
@@ -11,3 +16,4 @@
 7. Should be service based by design. MVC design is ideal.
 8. API for services should be easily usable by third parties.
 9. Basic Syntax Highlighting support for the text editor/display.
+
