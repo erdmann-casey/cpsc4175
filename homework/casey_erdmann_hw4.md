@@ -52,21 +52,21 @@ Control Classes: Link Generator Class
 
 #### 6. Using your answer to the previous question, draw an appropriate class diagram.
 
-[Homework 4 Class Diagram]()
+[Homework 4 Class Diagram](https://github.com/erdmann-casey/cpsc4175/blob/master/homework/hw4_class_diagram.pdf)
 
 #### 7. Complete a CRC card for one of your classes.
 
-[Homework 4 CRC]()
+[Homework 4 CRC](https://github.com/erdmann-casey/cpsc4175/blob/master/homework/hw4_crc.pdf)
 
 #### 8. Draw a state chart for one specific behavior of your project.
 
-[Homework 4 State Chart]()
+[Homework 4 State Chart](https://github.com/erdmann-casey/cpsc4175/blob/master/homework/hw4_state_chart.pdf)
 
 #### 9. Draw a communication diagram for one specific realization of a use case.
 
-[Homework 4 Communication Diagram]()
+[Homework 4 Communication Diagram](https://github.com/erdmann-casey/cpsc4175/blob/master/homework/hw4_communications_diagram.pdf)
 
 #### 10. Draw a sequence diagram for one specific realization of a use case.
 
 
-[Homework 4 Sequence Diagram]()
+[Homework 4 Sequence Diagram](https://github.com/erdmann-casey/cpsc4175/blob/master/homework/hw4_sequence_diagram.pdf)
